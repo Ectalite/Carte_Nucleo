@@ -83,6 +83,23 @@ GenerateClassCluster=0
 DocumentUniqueId=JFJSXRFQ
 
 [Document3]
+DocumentPath=Librairie\XDCR_COM-09032.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EAVXMALA
+
+[Document4]
 DocumentPath=..\..\..\Documents\AltiumLL\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +116,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GOGIQWWI
 
-[Document4]
+[Document5]
+DocumentPath=Librairie\COM-09032.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PKIIKKDO
+
+[Document6]
 DocumentPath=..\..\..\Documents\AltiumLL\SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
-[Document5]
+[Document7]
 DocumentPath=Carte_Nucleo.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document8]
 DocumentPath=Librairie\MesComposants.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,8 +184,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WJENVZHG
 
-[Document7]
-DocumentPath=IO_Carte_Nucleo_.SchDoc
+[Document9]
+DocumentPath=IO_Carte_Nucleo.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -167,8 +201,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LASJNSHA
 
-[Document8]
-DocumentPath=IO_Carte_Nucleo2_.SchDoc
+[Document10]
+DocumentPath=IO_Carte_Nucleo2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -184,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UJEFIRTK
 
-[Document9]
+[Document11]
 DocumentPath=Librairie\MesComposants.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -199,26 +233,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NFYPHDPV
 
-[Document10]
-DocumentPath=PCB_Nucleo.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QDQCASPP
-
-[Document11]
+[Document12]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -234,6 +251,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document13]
+DocumentPath=Carte_Nucleo.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XYBNUAMV
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Carte_Nucleo\BOM\Bill of Materials-Carte_Nucleo.xlsx
