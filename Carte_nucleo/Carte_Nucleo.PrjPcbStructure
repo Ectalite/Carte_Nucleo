@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Alimentation.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Alimentation.SchDoc|FileName=Connecteur_Nucleo.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Alimentation.SchDoc|FileName=IO_Carte_Nucleo2_.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Alimentation.SchDoc|FileName=IO_Carte_Nucleo_.SchDoc|SheetNumber=3
