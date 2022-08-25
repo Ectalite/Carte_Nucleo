@@ -244,6 +244,10 @@ DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-Carte_Nucl
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for Carte_Nucleo\Design Rule Check - Carte_Nucleo.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Carte_Nucleo\Design Rule Check - PCB_Nucleo.html
 DItemRevisionGUID=
 
