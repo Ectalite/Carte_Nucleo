@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for Carte_Nucleo
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -235,6 +235,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XYBNUAMV
 
+[Document12]
+DocumentPath=Librairie\Carte_Nucleo.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZGFXLMNZ
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Carte_Nucleo\BOM\Bill of Materials-Carte_Nucleo.xlsx
 DItemRevisionGUID=
@@ -244,10 +261,82 @@ DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-Carte_Nucl
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Carte_Nucleo\Design Rule Check - Carte_Nucleo.html
+DocumentPath=Project Outputs for Carte_Nucleo\NC Drill\Carte_Nucleo-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
+DocumentPath=Project Outputs for Carte_Nucleo\NC Drill\Carte_Nucleo-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Carte_Nucleo\NC Drill\Carte_Nucleo.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Carte_Nucleo\Gerber\Carte_Nucleo.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Carte_Nucleo\Gerber\Carte_Nucleo.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Carte_Nucleo\Gerber\Carte_Nucleo.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Carte_Nucleo\Gerber\Carte_Nucleo.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Carte_Nucleo\Gerber\Carte_Nucleo.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Carte_Nucleo\Gerber\Carte_Nucleo.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Carte_Nucleo\Gerber\Carte_Nucleo.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Carte_Nucleo\Gerber\Carte_Nucleo.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Carte_Nucleo\Gerber\Carte_Nucleo.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Carte_Nucleo\Gerber\Carte_Nucleo.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Carte_Nucleo\Gerber\Carte_Nucleo.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Carte_Nucleo\NC Drill\Carte_Nucleo.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Carte_Nucleo\Gerber\Carte_Nucleo.REP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Carte_Nucleo\Gerber\Carte_Nucleo.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Carte_Nucleo\Report Board Stack\Carte_Nucleo.xls
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Carte_Nucleo\Design Rule Check - Carte_Nucleo.html
+DItemRevisionGUID=
+
+[GeneratedDocument22]
 DocumentPath=Project Outputs for Carte_Nucleo\Design Rule Check - PCB_Nucleo.html
 DItemRevisionGUID=
 
@@ -260,6 +349,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for Carte_Nucleo
 
 [OutputGroup1]
 Name=Netlist Outputs
